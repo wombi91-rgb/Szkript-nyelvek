@@ -45,8 +45,3 @@ Felhasznált modulok és függvények
 | `tkinter.Canvas` | Grafikus elem; diagramok | `create_rectangle()`, `create_line()`, `create_text()` |
 | `csv` | Szabványos fájlkezelő modul | `DictReader()`, `writer()` |
 
-Osztályok
-
-- KDEnergyData – fogyasztási adatok tárolása és kezelése
-- EnergyApp – grafikus felület és eseménykezelés
-
