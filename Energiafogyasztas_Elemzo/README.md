@@ -43,5 +43,10 @@ Felhasznált modulok és függvények
 | `statistics` | Bemutatandó modul; statisztikai számítások | `mean()`, `median()`, `pstdev()` |
 | `kd_energy` | Saját modul; adatok, számítások és CSV-fájlkezelés | `kd_calculate_statistics()`, `kd_analyze_year()`, `kd_load_csv()`, `kd_save_csv()` |
 | `tkinter.Canvas` | Grafikus elem; diagramok | `create_rectangle()`, `create_line()`, `create_text()` |
+
+Osztályok
+
+- KDEnergyData – fogyasztási adatok tárolása és kezelése
+- EnergyApp – grafikus felület és eseménykezelés
 | `csv` | Szabványos fájlkezelő modul | `DictReader()`, `writer()` |
 
