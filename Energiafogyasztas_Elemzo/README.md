@@ -48,5 +48,5 @@ Osztályok
 
 - KDEnergyData – fogyasztási adatok tárolása és kezelése
 - EnergyApp – grafikus felület és eseménykezelés
-| `csv` | Szabványos fájlkezelő modul | `DictReader()`, `writer()` |
+
 
