@@ -23,7 +23,7 @@ Használat
 4. A táblázatban egy sorra kattintva betöltheted az értékeit a mezőkbe.
 5. A **Kijelölt törlése** gomb eltávolítja az adott havi adatot.
 6. A **Grafikon és statisztika** fülön kiválasztható az áram- vagy a gázfogyasztás.
-7. A felső **Éves elemzés külön ablakban** gombbal külön, átméretezhető, görgethető elemzőablak nyílik; az **Éves fogyasztásfigyelő** fülön megadható a két éves keret, majd az **Év elemzése** gombbal az Év mezőben megadott évre készül elemzés. Az elemzés szövege külön görgethető, ezért kisebb ablakban sem vész el a vége.
+7. A felső **Éves elemzés** gombbal külön, átméretezhető, görgethető elemzőablak nyílik; az **Éves fogyasztásfigyelő** fülön megadható a két éves keret, majd az **Év elemzése** gombbal az Év mezőben megadott évre készül elemzés. Az elemzés szövege külön görgethető, ezért kisebb ablakban sem vész el a vége.
 8. A **CSV megnyitása** gombbal másik fájl tölthető be, a **Mentés másként** gombbal másolat készíthető.
 
 A program a kiválasztott típusból a legutóbbi 12 hónapot rajzolja ki, a statisztikát minden betöltött hónapból számolja. A program indításkor a projekt mappájában lévő `fogyasztas.csv` fájlt tölti be, ha létezik. Az alapértelmezett CSV mintadatokat tartalmaz, nem tényleges fogyasztási méréseket. Az új adatok és módosítások a megnyitott adatfájlba mentődnek. A statisztikák a rögzített hónapokra vonatkoznak, nem feltétlenül egy teljes évre.
